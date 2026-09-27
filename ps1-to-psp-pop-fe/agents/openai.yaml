@@ -1,0 +1,4 @@
+interface:
+  display_name: "PS1 to PSP (pop-fe)"
+  short_description: "Build PSP EBOOT.PBP files from PS1 games"
+  default_prompt: "Use $ps1-to-psp-pop-fe to convert my PS1 game directory into a PSP EBOOT.PBP."
