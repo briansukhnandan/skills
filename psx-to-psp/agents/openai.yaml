@@ -1,0 +1,4 @@
+interface:
+  display_name: "PSX to PSP"
+  short_description: "Build PSP EBOOT.PBP files from PS1 images"
+  default_prompt: "Use $psx-to-psp to convert my PlayStation 1 game into a PSP EBOOT.PBP."
