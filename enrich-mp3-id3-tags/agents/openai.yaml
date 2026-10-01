@@ -1,0 +1,4 @@
+interface:
+  display_name: "Enrich MP3 ID3 Tags"
+  short_description: "Match and embed album metadata and cover art"
+  default_prompt: "Use $enrich-mp3-id3-tags to identify and embed verified metadata and cover art in these MP3 files."
