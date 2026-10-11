@@ -1,0 +1,3 @@
+interface:
+  display_name: "Torrent Media Formatting"
+  short_description: "Clean and normalize downloaded movies and TV shows"
